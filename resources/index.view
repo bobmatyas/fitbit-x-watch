@@ -1,13 +1,13 @@
 <svg class="background">
-	<image href="x2.png" />
+	<image href="x.png" />
 	<g id="mins" pointer-events="visible" transform="translate(50%,50%)">
-		<rect x="$-4" y="-55" width="6" height="155" fill="#e0e0e0" />
+		<rect x="$-4" y="-170" width="10" height="200" fill="#A5A3A4" />
 	</g>
 	<g id="hours" pointer-events="visible" transform="translate(50%,50%)">
-		<rect x="$-6" y="-45" width="8" height="120" fill="#e0e0e0" />
+		<rect x="$-6" y="-150" width="12" height="180" fill="#A5A3A4" />
 	</g>
 	<g id="secs" pointer-events="visible" transform="translate(50%,50%)">
 		<rect x="$-2" y="-35" width="2" height="190" fill="#ff0000" />
 	</g>
-	<circle cx="50%" cy="50%" r="6" fill="#ff0000" />
+	<circle cx="50%" cy="50%" r="8" fill="#ff0000" />
 </svg>
